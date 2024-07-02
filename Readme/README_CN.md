@@ -1,5 +1,4 @@
 # PS图层替换器
-其它语言版本[:[English]README.md](https://github.com/Rinorsi/PS-Layer-Replacer/blob/Dev/Readme/README_EN.md)
 
 PS图层替换器是一个用于批量替换 PSD 文件中同名图层内容的 Photoshop 脚本。使用此脚本可以轻松地将指定文件夹中的图像文件替换到 PSD 文件的相应图层中，目前支持多种图像格式。
 
@@ -17,4 +16,3 @@ PS图层替换器是一个用于批量替换 PSD 文件中同名图层内容的 
 3. 选择需要修改的 PSD 文件
 4. 选择包含替换图像的文件夹
 5. 脚本会自动将图片替换到同名图层
-
